@@ -1,6 +1,8 @@
 Executive Summary
+________________________________________
 
 This project analyzes bank customer data to understand the key factors contributing to customer churn. By exploring customer demographics, account activity, and product usage, this analysis uncovers actionable insights that can help the bank develop targeted retention strategies, improve customer engagement, and reduce churn rates.
+________________________________________
 
 Business Problem
 
@@ -11,6 +13,7 @@ A bank is experiencing customer churn and needs to understand why customers are 
 2- What do the overall demographics of the bank's customers look like?
 
 3- How does customer behavior differ across different geographic regions?
+________________________________________
 
 Results & Business Recommendations
 
@@ -33,6 +36,7 @@ Geographic Insights:
 - Finding: The analysis showed distinct differences in customer behavior across different regions.
 
 Recommendation: Develop tailored marketing and retention strategies for each region to address unique customer needs and preferences.
+________________________________________
 
 Project Structure
 
