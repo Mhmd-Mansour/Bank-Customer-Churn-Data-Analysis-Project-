@@ -1,5 +1,4 @@
 Executive Summary
-________________________________________
 
 This project analyzes bank customer data to understand the key factors contributing to customer churn. By exploring customer demographics, account activity, and product usage, this analysis uncovers actionable insights that can help the bank develop targeted retention strategies, improve customer engagement, and reduce churn rates.
 ________________________________________
@@ -43,3 +42,5 @@ Project Structure
 Bank Customer Churn Analysis.ipynb: The main Jupyter notebook containing all the code for the analysis, including data cleaning, visualization, and insights.
 
 Bank_Churn_Data_Dictionary.csv: A data dictionary file that provides a description of each column in the dataset.
+
+Date source: https://app.mavenanalytics.io/datasets
