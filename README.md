@@ -24,6 +24,9 @@ Active Status Is Key:
 
 Recommendation: Prioritize initiatives that increase customer engagement and promote active use of bank services.
 
+<img width="580" height="453" alt="output" src="https://github.com/user-attachments/assets/e40732aa-c99c-4689-affe-77d08f106906" />
+
+
 Surprising Churn Factors:
 
 - Finding: Customers with a higher number of products and larger account balances showed a higher tendency to churn.
