@@ -33,11 +33,17 @@ Surprising Churn Factors:
 
 Recommendation: Investigate the specific reasons why high-value customers with multiple products are leaving. This may point to issues with product bundling, service quality, or a lack of personalized incentives.
 
+<img width="580" height="453" alt="output1" src="https://github.com/user-attachments/assets/a747a1fa-6c1e-4b17-8f06-f20708dfe0a0" />
+
+
 Geographic Insights:
 
 - Finding: The analysis showed distinct differences in customer behavior across different regions.
 
 Recommendation: Develop tailored marketing and retention strategies for each region to address unique customer needs and preferences.
+
+<img width="580" height="432" alt="output3" src="https://github.com/user-attachments/assets/d8e33c3f-122c-45fc-ab3d-9daeb88474b2" />
+
 ________________________________________
 
 Project Structure
